@@ -32,7 +32,7 @@
 </div>
 
 ------
-## Certifications
+## Courses
 - 🔴 CS50x
 - 🔵 CS50T
 - 🟡 CS50P
