@@ -15,7 +15,7 @@
 
 ------
 ### :woman_technologist: About Me :
-### I am back-end developer
+### I'am Backend Developer
 - 🔴 Interested in solving problems by programming
 - 🔵 Learning everyday
 - 🟡 In my free time, i solve simple problems 
