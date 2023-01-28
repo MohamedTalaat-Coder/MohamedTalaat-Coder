@@ -21,6 +21,8 @@
 - 🟡 In my free time, i solve simple problems 
 - ⚪ I like to hear feedback about my code
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedTalaat-Coder)](https://github.com/anuraghazra/github-readme-stats)
+
 ------
 ## Programming languages and frameworks
 <div style="display=inline">
