@@ -26,6 +26,7 @@
 ------
 ## Programming languages and frameworks
 <div style="display=inline">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="75px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="75px" />
 <img src="https://icon-library.com/images/django-icon/django-icon-0.jpg" width="75px" />  
 <img src="https://www.pngkey.com/png/detail/98-985032_flask-logo-flask-python-icon.png" width="75px" height="75px">
